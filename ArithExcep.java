@@ -17,6 +17,7 @@ public class ArithExcep {
 		finally {
 			
 			System.out.println("Thank you");
+			System.out.println("Success");
 		}
 	}
 
